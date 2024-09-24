@@ -1,11 +1,11 @@
 # IlluminateAgnostic \ Arr
  
 <p align="center">
-    <a href="https://packagist.org/packages/pragmarx/ia-arr"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/pragmarx/ia-arr.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/ia-arr"><img alt="Latest Stable Version" src="https://img.shields.io/packagist/v/mohamedahmed00/ia-arr.svg?style=flat-square"></a>
     <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/ia-arr/?branch=master"><img alt="Code Quality" src="https://img.shields.io/scrutinizer/g/antonioribeiro/ia-arr.svg?style=flat-square"></a>
     <a href="https://travis-ci.org/antonioribeiro/ia-arr"><img alt="Build" src="https://img.shields.io/travis/antonioribeiro/ia-arr.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/pragmarx/ia-arr"><img alt="Downloads" src="https://img.shields.io/packagist/dt/pragmarx/ia-arr.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/mohamedahmed00/ia-arr"><img alt="Downloads" src="https://img.shields.io/packagist/dt/mohamedahmed00/ia-arr.svg?style=flat-square"></a>
 </p>
 <p align="center">
     <a href="https://scrutinizer-ci.com/g/antonioribeiro/ia-arr/?branch=master"><img alt="Coverage" src="https://img.shields.io/scrutinizer/coverage/g/antonioribeiro/ia-arr.svg?style=flat-square"></a>
@@ -25,7 +25,7 @@ You can find some documentation on the available helpers here: https://laravel.c
 Via Composer
 
 ``` bash
-$ composer require pragmarx/ia-arr
+$ composer require mohamedahmed00/ia-arr
 ```
 
 ## Usage
